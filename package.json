@@ -1,5 +1,5 @@
 {
-  "name": "ts-env",
+  "name": "@velsa/ts-env",
   "version": "1.0.0",
   "description": "Strongly typed environment variables for Typescript node projects",
   "main": "dist/index.js",
