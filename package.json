@@ -1,7 +1,7 @@
 {
-  "name": "tsenv",
+  "name": "ts-env",
   "version": "1.0.0",
-  "description": "Strongly typed environment variables",
+  "description": "Strongly typed environment variables for Typescript node projects",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/velsa/tsenv.git"
+    "url": "git+https://github.com/velsa/ts-env.git"
   },
   "keywords": [],
   "author": "vels",

@@ -1,4 +1,3 @@
-
 # Typescript ENV
 
 Bring strongly typed environment variables into your Typescript project :)
