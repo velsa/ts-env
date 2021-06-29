@@ -26,7 +26,7 @@ const myenv = {
     ENABLE_AUTH: env("ENABLE_AUTH", { default: false })
     // ENABLE_AUTH type: boolean
 
-    // Strict typings and autocomplete using the 'allow' option
+    // Strict typings and autocomplete using the 'allowed' option
     NODE_ENV: env("NODE_ENV", { allowed: ["dev", "prod", "test"] as const }),
     // NODE_ENV type: "dev" | "prod" | "test"
 }
