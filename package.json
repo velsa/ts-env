@@ -1,0 +1,25 @@
+{
+  "name": "tsenv",
+  "version": "1.0.0",
+  "description": "Strongly typed environment variables",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "vels",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5"
+  }
+}
