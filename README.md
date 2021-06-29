@@ -27,7 +27,7 @@ const myenv = {
 
 ## Features
 
-The library exposes only one method, which accepts the var name and options:
+The library exposes only one method, which accepts the var name and some options:
 
 ```typescript
 env(varName: string, options?: { 
